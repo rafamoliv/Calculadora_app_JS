@@ -1,1 +1,1 @@
-# Calculadora_app_JS
+![Calculadora JS](./assets/calculator.png)
